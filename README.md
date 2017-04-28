@@ -1,0 +1,1 @@
+# hanami-base-app
